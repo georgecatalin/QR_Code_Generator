@@ -11,4 +11,4 @@ Feel free to follow the following instructions about how to use the 'libqrencode
 * Working with QR Codes in Embedded Linux and ARM-powered devices using the C++ language (static linking) https://medium.com/p/f1e4366afae3
 * Working with QR Codes in Embedded Linux and ARM-powered devices using the C++ language (dynamic linking) https://medium.com/p/55d111b51aea
 
-![Test Image 1](3DTest.png)
+![QR Code](qr-code_medium_end.jpg)
